@@ -19,6 +19,7 @@
   * [ActiveAdmin](code/activeadmin.md)
   * [Angular](code/angular.md)
   * [Ionic](code/ionic.md)
+  * [Vue](code/vue.md)
 
 * Testing
   * [Angular](testing/angular.md)
